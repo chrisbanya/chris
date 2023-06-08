@@ -20,9 +20,5 @@
   alt="csharp" title="C#" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg"
   alt="elixir" title="Elixir" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
   alt="javascript" style="margin-right: 0.7rem" title="JavaScript" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-<h3 align="left">Frontend Frameworks:</h3>
-<p align="left"><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="react" width="40" height="40" /> </a><a href="https://vuejs.org/" target="_blank"
-                                                         rel="noreferrer"> </a></p>
+
             
