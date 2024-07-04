@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Adabanya Christain</h1>
+<h1 align="center">Hi 👋, I'm Adabanya Christian</h1>
 <h3 align="center">An Expert Software Engineer</h3>
 
-- 🌱 I’m currently exploring **HTML, CSS, and Design Patterns**
+- 🌱 I’m currently exploring **HTML, CSS, Javascript and React**
 
-- 💬 Ask me about **HTML, CSS, Javascript**
+- 💬 Ask me about **HTML, CSS, Javascript and React**
 
 - 📫 How to reach me **adabanyachristian21@gmail.com**
 
@@ -16,9 +16,7 @@
 
 <h3 align="left">Programming Languages:</h3>
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-  alt="csharp" title="C#" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg"
-  alt="elixir" title="Elixir" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-  alt="javascript" style="margin-right: 0.7rem" title="JavaScript" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+  alt="javascript" style="margin-right: 0.7rem" title="JavaScript" width="40" height="40" /> 
 
             
